@@ -1,0 +1,13 @@
+.linkItem {
+    text-decoration: none;
+    color: red;
+    transition: color 0.3s ease;
+
+    &:hover {
+        color: rgb(162, 6, 6);
+    }
+}
+
+.list {
+    list-style: none;
+}

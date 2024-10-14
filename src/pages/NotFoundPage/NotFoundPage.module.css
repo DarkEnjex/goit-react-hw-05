@@ -1,0 +1,14 @@
+.wrapper {
+    padding-left: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: rgba(38, 38, 38, 0.603);
+
+    transition: color 0.3s ease;
+
+    &:hover {
+        color: red;
+    }
+}
